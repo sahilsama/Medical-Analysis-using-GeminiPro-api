@@ -1,1 +1,1 @@
-# Mediacal-Analysis-using-GeminiPro-api
+# Medical-Analysis-using-GeminiPro-api
